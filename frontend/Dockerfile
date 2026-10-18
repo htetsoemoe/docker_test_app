@@ -1,4 +1,4 @@
-# Use official Node.js runtime (Alpine version for smaller image size)
+ # Use official Node.js runtime (Alpine version for smaller image size)
 FROM node:24-alpine3.22
 
 # Create a non-root group and user for security
